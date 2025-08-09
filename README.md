@@ -1,4 +1,4 @@
-tartup Funding Analysis
+Startup Funding Analysis
 📌 Overview
 This project analyzes Indian startup funding data to clean, preprocess, and extract key insights such as top-funded sectors, cities, startups, and investors. It also visualizes funding trends over time using Matplotlib and Seaborn.
 
