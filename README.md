@@ -1,5 +1,8 @@
 Startup Funding Analysis
 📌 Overview
+
+
+
 This project analyzes Indian startup funding data to clean, preprocess, and extract key insights such as top-funded sectors, cities, startups, and investors. It also visualizes funding trends over time using Matplotlib and Seaborn.
 
 The script performs:
@@ -9,6 +12,9 @@ Handling of missing values
 Standardization of text fields
 Analysis of funding trends by year, month, sector, city, startup, investor, and investment type
 Visualization of results
+
+
+
 📂 Dataset
 The script expects a dataset in CSV format named startup_funding.csv with the following columns:
 
@@ -35,6 +41,9 @@ The script will:
 Display cleaned dataset information
 Show funding trends and top rankings
 Generate visualizations for trends and comparisons
+
+
+
 🔍 Key Steps in Analysis
 Data Cleaning
 
@@ -55,6 +64,7 @@ Visualizations
 
 Line plots for funding trends
 Bar charts for top 10 rankings in different categories
+
 📊 Example Outputs
 Yearly Funding Trends – Total funding and number of deals over the years
 Top Sectors by Funding
@@ -62,6 +72,8 @@ Top Cities by Funding
 Top Startups by Funding
 Top Investors by Funding & Deals
 Top Investment Types by Funding & Deals
+
+
 🖼 Visualizations
 Generated plots include:
 
